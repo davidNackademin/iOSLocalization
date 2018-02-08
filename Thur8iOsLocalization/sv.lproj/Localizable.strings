@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Thur8iOsLocalization
+
+  Created by David Svensson on 2018-02-08.
+  Copyright © 2018 David Svensson. All rights reserved.
+*/
+
+"button_pressed" = "Knappen är tryckt";
+
+"question_bird_name" = "Vad heter fågeln";
